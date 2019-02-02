@@ -1,0 +1,8 @@
+HashMap和HashSet的区别是Java面试中最常被问到的问题。
+如果没有涉及到Collection框架以及多线程的面试，可以说是不完整。
+
+
+
+
+它对集合中的对象进行索引，Queue的工作原理是FCFS算法(First Come, First Serve)。
+添加一行
